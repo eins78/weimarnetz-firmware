@@ -1,0 +1,2 @@
+# weimarnetz-firmware
+(test repo)
