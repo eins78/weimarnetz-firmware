@@ -1,0 +1,9 @@
+[submodule "openwrt-extension"]
+	path = openwrt-extension
+	url = https://github.com/weimarnetz/weimarnetz
+[submodule "openwrt-packages"]
+	path = openwrt-packages
+	url = https://github.com/weimarnetz/openwrt-packages
+[submodule "builder"]
+	path = builder
+	url = https://github.com/weimarnetz/builder
