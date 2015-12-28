@@ -7,3 +7,7 @@
 [submodule "builder"]
 	path = builder
 	url = https://github.com/weimarnetz/builder
+[submodule "openwrt"]
+	path = openwrt
+	url = https://github.com/openwrt/openwrt.git
+	branch = chaos_calmer
